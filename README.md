@@ -23,7 +23,8 @@
 
 ## 面板指示灯颜色说明 / Panel LED Indicators
 
-- 蓝色：读取中 / 读取成功
+- 白色：等待中
+- 蓝色：读取成功
 - 红色：读取失败
 
 ## 游戏设置指南 / Game Setup Guide
