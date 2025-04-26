@@ -5,7 +5,7 @@
 - 全新轻薄外壳设计，相较前代更加小巧
 - 支持社区与创意工坊定制印刷面板，打造专属风格
 - 强化通信模块，读卡速度更快、稳定性更高
-- 完善支持 segatools / spicetools，兼容多款游戏
+- 完整支持 segatools / spicetools，兼容多款游戏
 
 ## 开箱/Unboxing
 
