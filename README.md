@@ -32,3 +32,6 @@
 - [SEGA系游戏设置戳我](segatools.md)
 
 - [BEMANI系游戏设置戳我](spicetools.md)
+
+
+**Docs made by NJM Center**
