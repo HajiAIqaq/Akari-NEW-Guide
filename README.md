@@ -34,4 +34,11 @@
 - [BEMANI系游戏设置戳我](spicetools.md)
 
 
+## 固件更新指南 / Firmware Update Guide
+
+解压Release或售后群/官方提供的固件ZIP压缩包，按照提示进行刷入
+
+因刷入未知来源固件而造成故障的问题请自行承担后果！！！
+
+
 **Docs made by NJM Center**
