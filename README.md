@@ -33,6 +33,7 @@
 
 - [BEMANI系游戏设置戳我](spicetools.md)
 
+- [SEIKAN控制中心](https://manager.seikan.cn/)
 
 ## 固件更新指南 / Firmware Update Guide
 
@@ -40,5 +41,6 @@
 
 因刷入未知来源固件而造成故障的问题请自行承担后果！！！
 
+过新的固件可能不会得到网页控制中心的第一时间支持
 
 **Docs made by NJM Center**
